@@ -1,0 +1,5 @@
+I learnt the mode at which the JS classes  will take.
+I learnt that JS is a scripting language, not a compiling language and as such it can run directly on a browser, all browsers have a JS console.
+I learnt the IDE's to use and the other applications that will be needed such as GIT, VS code, Sublime, Notepad, Nodejs,etc
+I learnt how to make use of Live server and how to use the normal browser too,
+I learnt that github is my cv and how to use Git and Github.
