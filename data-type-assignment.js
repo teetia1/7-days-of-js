@@ -1,13 +1,14 @@
 //Task 1
 //1
-let userName = "Sophia";    
-console.log('hello ${3}');          //hello ${3}
+let userName = "Sophia";
+console. log( `hello ${3}` ); //hello 3
 
 //2
-console.log('hello ${"userName",}'); //hello ${"userName"}
+console.log( `hello ${"userName"}` ); //hello userName
 
 //3
-alert('hello ${userName}');         //hello ${userName}
+alert( `hello ${userName}` ); //hello Sophia
+
 
 
 //Task 2
@@ -16,7 +17,8 @@ let price = prompt("What is the price of the Item", "<price goes here>");
 console.log("The price of the item is", price, "dollars");
 
 //2
-//typeof{price} is object
+console.log(typeof price);
+//typeof(price) is string
 
 //3
 // it will concatenate
